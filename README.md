@@ -10,5 +10,5 @@
 <h5>HTML5 高级程序设计</h5>
 <h5>JavaScript 高级程序设计</h5>
 <h5>编写可维护的JavaScript</h5>
-<p>.1 精通css翻完，终于</p>
+<p>.1 终于翻完精通css</p>
 <p>.2 <a href="http://blog.segmentfault.com/susheng/1190000000490150">锋利的Jquery阅读笔记</a>，jquery mobile?</p>
