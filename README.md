@@ -12,4 +12,4 @@
 <h5>编写可维护的JavaScript</h5>
 <p>.1 终于翻完精通css</p>
 <p>.2 <a href="http://blog.segmentfault.com/susheng/1190000000490150">锋利的Jquery阅读笔记</a>，jquery mobile?</p>
-<p>.3 《JavaScript Dom 编程艺术》</p>
+<p>.3 开始看《JavaScript Dom 编程艺术》，第一次写<a href="https://gist.github.com/wallaceyuan">Gist</a></p>
