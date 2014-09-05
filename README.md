@@ -14,3 +14,4 @@
 <p>.2 <a href="http://blog.segmentfault.com/susheng/1190000000490150">锋利的Jquery阅读笔记</a>，jquery mobile?</p>
 <p>.3 开始看《JavaScript Dom 编程艺术》，第一次写<a href="https://gist.github.com/wallaceyuan">Gist</a></p>
 <p>.4 返回值 节点</p>
+<p>.5 ie6 fixed bug</p>
