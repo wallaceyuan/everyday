@@ -15,3 +15,4 @@
 <p>.3 开始看《JavaScript Dom 编程艺术》，第一次写<a href="https://gist.github.com/wallaceyuan">Gist</a></p>
 <p>.4 返回值 节点</p>
 <p>.5 ie6 fixed bug</p>
+<p>.6 上海摄影展放风走起</p>
