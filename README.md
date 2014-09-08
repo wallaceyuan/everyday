@@ -17,3 +17,4 @@
 <p>.5 ie6 fixed bug</p>
 <p>.6 上海摄影展放风走起</p>
 <p>.7 node.js</p>
+<p>.8 npm</p>
