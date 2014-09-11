@@ -20,3 +20,4 @@
 <p>.8 npm</p>
 <p>.9 js 插件</p>
 <p>.10 js 插件未完成</p>
+<p>.11 js <a href="http://image.thepaper.cn/html/zt/krzz/index.html?from=singlemessage&isappinstalled=0">研究</a></p>
