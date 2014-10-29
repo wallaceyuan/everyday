@@ -7,10 +7,7 @@
 	<li><a href="#October">十月</a></li>
 </ul>
 <h4>你连CSS都没看明白，看什么JS</h4>
-<h5>《CSS精通WEB布局》</h5>
-<h5>HTML5 高级程序设计</h5>
-<h5>JavaScript 高级程序设计</h5>
-<h5>编写可维护的JavaScript</h5>
+<p>《CSS精通WEB布局》 HTML5 高级程序设计 JavaScript 高级程序设计,编写可维护的JavaScript</p>
 <p>.1 终于翻完精通css</p>
 <p>.2 <a href="http://blog.segmentfault.com/susheng/1190000000490150">锋利的Jquery阅读笔记</a>，jquery mobile?</p>
 <p>.3 开始看《JavaScript Dom 编程艺术》，第一次写<a href="https://gist.github.com/wallaceyuan">Gist</a></p>
