@@ -3,7 +3,8 @@
 <p>此地屌丝挖坟，大神过往轻拍。</p>
 </blockquote>
 <ul class="task-list">
-<li><a href="#September">九月</a></li>
+	<li><a href="#September">九月</a></li>
+	<li><a href="#October">十月</a></li>
 </ul>
 <h4>你连CSS都没看明白，看什么JS</h4>
 <h5>《CSS精通WEB布局》</h5>
@@ -21,3 +22,8 @@
 <p>.9 js 插件</p>
 <p>.10 js 插件未完成</p>
 <p>.11 js <a href="http://image.thepaper.cn/html/zt/krzz/index.html?from=singlemessage&isappinstalled=0">研究</a></p>
+<h1>十月</h1>
+<p>HTML5 Canvas NodeJs WebApp Iscroll,Swipe源码</p>
+<p>.27 屌丝挖坟写博客<a href="http://home.cnblogs.com/u/wallaceyuan/">记个地址</a></p>
+<p>.28 <a href="http://zeptojs.com/">Zepto.js</a>手机端上从jQuery转到Zepto，错略了解，研究Zepto的兼容性。</p>
+<p>.29 一直惦记着学习NodeJs，跟着大神先运行起来<a href="https://github.com/nswbmw/N-blog">N-blog</a></p>
