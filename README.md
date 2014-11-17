@@ -5,6 +5,7 @@
 <ul class="task-list">
 	<li><a href="#September">九月</a></li>
 	<li><a href="#October">十月</a></li>
+	<li><a href="#November">十一月</a></li>
 </ul>
 <h4>你连CSS都没看明白，看什么JS</h4>
 <p>《CSS精通WEB布局》 HTML5 高级程序设计 JavaScript 高级程序设计,编写可维护的JavaScript</p>
@@ -24,3 +25,6 @@
 <p>.27 屌丝挖坟写博客<a href="http://home.cnblogs.com/u/wallaceyuan/">记个地址</a></p>
 <p>.28 <a href="http://zeptojs.com/">Zepto.js</a>手机端上从jQuery转到Zepto，错略了解，研究Zepto的兼容性。</p>
 <p>.29 一直惦记着学习NodeJs，跟着大神先运行起来<a href="https://github.com/nswbmw/N-blog">N-blog</a><a href="http://blog.fens.me/nodejs-mongoose-json/">地址</a></p>
+<h1>十一月</h1>
+<p>主要抓紧完成wallace的生日礼物，在做的过程中不断学习。</p>
+<p>想想现在的短板在哪里，利用空余时间补上。</p>
