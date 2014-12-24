@@ -6,7 +6,9 @@
 	<li><a href="#September">九月</a></li>
 	<li><a href="#October">十月</a></li>
 	<li><a href="#November">十一月</a></li>
+	<li><a href="#December">十一月</a></li>
 </ul>
+<h1 id="September">十月</h1>
 <h4>你连CSS都没看明白，看什么JS</h4>
 <p>《CSS精通WEB布局》 HTML5 高级程序设计 JavaScript 高级程序设计,编写可维护的JavaScript</p>
 <p>.1 终于翻完精通css</p>
@@ -20,11 +22,16 @@
 <p>.9 js 插件</p>
 <p>.10 js 插件未完成</p>
 <p>.11 js <a href="http://image.thepaper.cn/html/zt/krzz/index.html?from=singlemessage&isappinstalled=0">研究</a></p>
-<h1>十月</h1>
+
+<h1 id="October">十月</h1>
 <p>HTML5 Canvas NodeJs WebApp Iscroll,Swipe源码</p>
 <p>.27 屌丝挖坟写博客<a href="http://home.cnblogs.com/u/wallaceyuan/">记个地址</a></p>
 <p>.28 <a href="http://zeptojs.com/">Zepto.js</a>手机端上从jQuery转到Zepto，错略了解，研究Zepto的兼容性。</p>
 <p>.29 一直惦记着学习NodeJs，跟着大神先运行起来<a href="https://github.com/nswbmw/N-blog">N-blog</a><a href="http://blog.fens.me/nodejs-mongoose-json/">地址</a></p>
-<h1>十一月</h1>
+
+<h1 id="November">十一月</h1>
 <p>主要抓紧完成wallace的生日礼物，在做的过程中不断学习。</p>
 <p>想想现在的短板在哪里，利用空余时间补上。</p>
+
+<h1 id="December">十二月</h1>
+<p>.24 <a href="https://github.com/cssmagic/action">CSS魔法：《点击事件怎么绑？》</a></p>
